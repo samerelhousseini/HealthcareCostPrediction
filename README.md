@@ -1,3 +1,29 @@
+# Healthcare Cost Prediction in Hospitals with Stacked Regressions 
+
+This case study has been developed to showcase the regression that is built using a small dataset of patients. The goal is to predict the total cost of stay in the hospital based on the patient's attributes.
+<br/>
+<br/>
+
+## Data
+
+The Data Description is mentioned in the file 'Hospital - Data Description.xlsx'. The Data is present in the file 'Hospital - Data.xlsx'.
+<br/>
+<br/>
+
+## Methodology
+
+After data cleaning, pre-processing, and preparation, a stacked regression model is developed to maximize the accuracy of the prediction.
+
+
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
 
 
 ```python
